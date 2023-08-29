@@ -1,6 +1,6 @@
 # Google-clone
 
-This is a simple clone of the google landing page. It is a static webpage made using html and css only. I've used flexbox to  ake it responsive.
+This is a simple clone of the google landing page. It is a static webpage made using html and css only. I've used flexbox to make it responsive.
 
 
 #Screenshots
